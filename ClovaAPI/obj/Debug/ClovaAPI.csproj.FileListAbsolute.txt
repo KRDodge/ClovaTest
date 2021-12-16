@@ -1,0 +1,9 @@
+C:\Users\media\Documents\GitHub\ClovaTest\ClovaAPI\bin\Debug\ClovaAPI.dll
+C:\Users\media\Documents\GitHub\ClovaTest\ClovaAPI\bin\Debug\ClovaAPI.pdb
+C:\Users\media\Documents\GitHub\ClovaTest\ClovaAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\media\Documents\GitHub\ClovaTest\ClovaAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\media\Documents\GitHub\ClovaTest\ClovaAPI\obj\Debug\ClovaAPI.csproj.AssemblyReference.cache
+C:\Users\media\Documents\GitHub\ClovaTest\ClovaAPI\obj\Debug\ClovaAPI.csproj.CoreCompileInputs.cache
+C:\Users\media\Documents\GitHub\ClovaTest\ClovaAPI\obj\Debug\ClovaAPI.csproj.CopyComplete
+C:\Users\media\Documents\GitHub\ClovaTest\ClovaAPI\obj\Debug\ClovaAPI.dll
+C:\Users\media\Documents\GitHub\ClovaTest\ClovaAPI\obj\Debug\ClovaAPI.pdb
